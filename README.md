@@ -11,3 +11,7 @@ Generate secure password with this telegram bot
 
 
 ## Стек технологий
+- GIT,
+- Python
+- GithubProjects
+- 
